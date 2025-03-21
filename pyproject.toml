@@ -1,0 +1,12 @@
+[project]
+name = "foo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.37.17",
+    "flask>=3.1.0",
+    "ipython>=9.0.2",
+    "pyright>=1.1.397",
+]
